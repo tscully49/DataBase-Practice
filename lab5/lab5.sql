@@ -57,4 +57,3 @@ UPDATE person AS p SET uid = 2 FROM pidd WHERE p.pid = pidd.pid;
 --)
 --SELECT person.pid FROM pidd;
 
-
